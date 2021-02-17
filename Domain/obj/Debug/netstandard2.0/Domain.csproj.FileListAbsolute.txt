@@ -1,0 +1,9 @@
+F:\QueueSchduler\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+F:\QueueSchduler\Domain\bin\Debug\netstandard2.0\Domain.dll
+F:\QueueSchduler\Domain\bin\Debug\netstandard2.0\Domain.pdb
+F:\QueueSchduler\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+F:\QueueSchduler\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+F:\QueueSchduler\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+F:\QueueSchduler\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+F:\QueueSchduler\Domain\obj\Debug\netstandard2.0\Domain.dll
+F:\QueueSchduler\Domain\obj\Debug\netstandard2.0\Domain.pdb

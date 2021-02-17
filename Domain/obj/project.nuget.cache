@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mu8ImIA88zYK2EIRgA3EHsO5/FtW6vw8E7YnKZZcYWPemA0yTVec4NQ7Opu9BbO4Hovb4gqoB47BrxVpO6h37w==",
+  "success": true,
+  "projectFilePath": "F:\\QueueSchduler\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.khojastehfard\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\m.khojastehfard\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
